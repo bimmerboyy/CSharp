@@ -1,8 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharp.DUNP.Vezbe1
+{
+    internal class vezba04
+    {
+    }
+}
+
+/*
+ * 
 
 
-using System;
 
-namespace Post{
     class ConsoleApp
 {
     static void Main(string[] args)
@@ -49,4 +62,7 @@ public class Post{
 
 }
 
-}
+
+
+ 
+*/
