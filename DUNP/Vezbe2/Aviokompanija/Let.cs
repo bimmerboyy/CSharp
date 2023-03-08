@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp.DUNP.Vezbe2.vezba02
+namespace CSharp.DUNP.Vezbe2.Aviokompanija
+
 {
-    internal class vezba02
+    internal class Let
     {
     }
 }
