@@ -40,7 +40,7 @@ namespace CSharp.DUNP.Vezbe2.Projekat.Biznis
                 
             }
             var prosek = (float)BrojPokodaka / BrojPokusaja * 100;
-            Console.WriteLine($"Igrac je pogodio {BrojPokodaka} od {BržjPokusaja} i uspesnost je {prosek}%");
+            Console.WriteLine($"Igrac je pogodio {BrojPokodaka} od {BrojPokusaja} i uspesnost je {prosek}%");
         }
     }
 }
