@@ -7,10 +7,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DUNP\Vezbe3\" />
-  </ItemGroup>
-
 </Project>
 
 
