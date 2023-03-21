@@ -1,4 +1,6 @@
-﻿partial class Program
+﻿using CSharp.DUNP.Vezbe3;
+
+partial class Program
 {
     //Ova klasa  sluzzi da klonira rad sa bazom 
 
