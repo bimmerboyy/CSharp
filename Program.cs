@@ -3,7 +3,7 @@ using CSharp.DUNP.Vezbe3.Dogadjaji;
 using System;
 using System.Buffers;
 
-namespace CSharp.Vezbanje.Igra
+namespace dfd
 {
     partial class Program
     {
