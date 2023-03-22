@@ -5,7 +5,11 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp", "CSharp.csproj", "{8736C923-4D7B-4B9F-AC78-ABC337AF95CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviokompanija", "..\ConsoleApp1\Aviokompanija.csproj", "{11D849BA-FA86-4907-9CF4-A5E61B8BFEE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aviokompanija", "..\ConsoleApp1\Aviokompanija.csproj", "{11D849BA-FA86-4907-9CF4-A5E61B8BFEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vezbe 4", "..\Vezbe 4\Vezbe 4.csproj", "{1B1A8852-2D17-4B88-8B5C-AC767812B763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak 2", "..\Zadatak 2\Zadatak 2.csproj", "{61536C0D-260A-4D6D-8EEF-584D5CF2D8F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{11D849BA-FA86-4907-9CF4-A5E61B8BFEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11D849BA-FA86-4907-9CF4-A5E61B8BFEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11D849BA-FA86-4907-9CF4-A5E61B8BFEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1A8852-2D17-4B88-8B5C-AC767812B763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1A8852-2D17-4B88-8B5C-AC767812B763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1A8852-2D17-4B88-8B5C-AC767812B763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1A8852-2D17-4B88-8B5C-AC767812B763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61536C0D-260A-4D6D-8EEF-584D5CF2D8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61536C0D-260A-4D6D-8EEF-584D5CF2D8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61536C0D-260A-4D6D-8EEF-584D5CF2D8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61536C0D-260A-4D6D-8EEF-584D5CF2D8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
